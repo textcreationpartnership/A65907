@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>This to the King and his councel something in answer to an order made by the House of Lords for the breaking up of the meetings of the people of God in scorn called Quakers ...</title>
+            <author>Whitehead, John, 1630-1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65907</idno>
+            <idno type="STC">Wing W1983</idno>
+            <idno type="STC">ESTC R20705</idno>
+            <idno type="EEBO-CITATION">12293969</idno>
+            <idno type="OCLC">ocm 12293969</idno>
+            <idno type="VID">58967</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65907)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58967)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 930:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>This to the King and his councel something in answer to an order made by the House of Lords for the breaking up of the meetings of the people of God in scorn called Quakers ...</title>
+                  <author>Whitehead, John, 1630-1696.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson, and are to be sold at his shop ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Signed: John Whitehead, et. al.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Great Britain.</term>
+               <term>Assembly, Right of --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58967:1"/>
+            <pb facs="tcp:58967:1" rendition="simple:additions"/>
+            <p>THIS TO THE <hi>KING and his CO<g ref="char:V">Ʋ</g>NCEL.</hi>
+            </p>
+            <p>Something in Anſwer to an ORDER MADE BY THE Houſe of Lords FOR The breaking up of the Meetings of the People of God in ſcorn called QUAKERS.</p>
+            <p>In NORTHAMPTONSHIRE: who are as the Sheep for the ſlaughter, all the day long killed.</p>
+            <p>And a Repreſentation of the innocency of the People of God called <hi>QUAKERS,</hi> which meet to worſhip the true God in ſpirit, within the County of <hi>Northampton.</hi>
+            </p>
+            <p>In Anſwer to a falſe Information which behind out backs hath been given againſt us as it is upon Record in an Order made againſt us, dated the 30th. of <hi>Septem.</hi> 1660. Subſcribed by <hi>John Brown,</hi> Clerk of the Parliament, which hath been read both in open Sizes, and divers Steeple-houſes, whereby people have been ſtirred up to per<g ref="char:EOLhyphen"/>ſecute us.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Wilſon,</hi> and are to be ſold at his Shop, at the ſign of the <hi>Black-ſpread-Eagle</hi> and <hi>Wind-Mill</hi> in <hi>Martins l'Grand,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="2" facs="tcp:58967:2" rendition="simple:additions"/>
+            <head>Something in anſwer to an Order made by the Houſe of Lords, for the break<g ref="char:EOLhyphen"/>ing up of the meetings of the People of God in ſcorn called <hi>Quakers.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">S</seg>Olomon</hi> ſaith, That <hi>he that is first in his own cauſe, ſeemeth juſt, but his neighbour cometh and ſearcheth him:</hi> And ye can<g ref="char:EOLhyphen"/>not be ignorant, that true Judgement cannot be given between party &amp; party without hearing them both; therefore it ſhould have been your honor to have ſearch'd out the matter charged againſt us, by hearing our Defence, as wel as the Accuſation of our Adverſaries <hi>(which we know they cannot prove)</hi> before you had proceeded to paſs Sen<g ref="char:EOLhyphen"/>tence againſt us: Therefore in the fear of God conſi<g ref="char:EOLhyphen"/>der; Have you not overſhot your ſelves in paſſing an Order or Sentence againſt us (without firſt hearing us, and our Accuſers, face to face) whereby that Chriſti<g ref="char:EOLhyphen"/>an Liberty which we have in Chriſt Jeſus to meet to<g ref="char:EOLhyphen"/>gether in his Name and Fear, hath been infringed; for men with armed force have come violently into our Meetings by vertue of your Order, &amp; have moleſted us by dragging us forth, abuſing and impriſoning ſome of us, when we were in the exerciſe of our Religion,
+<pb n="3" facs="tcp:58967:2" rendition="simple:additions"/>peaceably waiting upon God, &amp; calling upon him for the good of all men; which moleſtation tends to the viola<g ref="char:EOLhyphen"/>tion <hi>of the Word of the King,</hi> ſolemnly given, <hi>That we ſhould not be diſquieted nor called in queſtion for our Religion, which doth not diſturb the peace of the Kingdom;</hi> And it wil pro<g ref="char:EOLhyphen"/>voke the Lord to anger againſt you, if you go about to ſcatter thoſe that he hath ſought out and gathered in<g ref="char:EOLhyphen"/>to one Spirit, to worſhip him, whom he will keepe as the Apple of his Eye: Therefore be wiſe, and learn to know his Counſel, that is from everlaſting, leaſt ye be found fighting againſt him with your Laws and Or<g ref="char:EOLhyphen"/>ders; but mind the Law eternal that God hath written in your hearts, and let your Laws be according to that of God, which was not made for the Righteous, but for the Tranſgreſſors; and judge no man before you hear him, and know what he doth, leſt the <hi>Jews</hi> and <hi>Romans</hi> riſe up in judgement with you, and condemn you, that profeſs to be Chriſtians; for their Law judg<g ref="char:EOLhyphen"/>ed no man before a hearing: Likewiſe you may re<g ref="char:EOLhyphen"/>member that Hiſtory declares how often the gentleneſs and ſimplicity of Princes hath been abuſed by ma<g ref="char:EOLhyphen"/>licious men, till they have been wrapped in remedileſs calamities, by ſatisfying the wills of ſuch as make Religion a Cloak for their Covetouſneſs, Ambition, and Envy, which will flatter and bow to men of Pow<g ref="char:EOLhyphen"/>er, that they may make them the executioners of their malice, who thirſt after the blood of the Saints, becauſe they cannot give them money for that which is not bread, nor drink of the water which they have fouled with their feet; And leaſt you ſhould through the ſug<g ref="char:EOLhyphen"/>geſtions of fearful and unbelieving men (who know not the Truth, which is ſtrongeſt of all, and therefore
+<pb n="4" facs="tcp:58967:3" rendition="simple:additions"/>think it cannot prevail againſt Errors without Magi<g ref="char:EOLhyphen"/>ſtrates help) wrap your ſelves in thoſe remedileſs cala<g ref="char:EOLhyphen"/>mities which to perſecute the innocent will inavoida<g ref="char:EOLhyphen"/>bly bring upon you; we cannot but repreſent theſe things unto you, and alſo the manner of our Meetings, more truly then they have done who have informed you on this wiſe:</p>
+            <p>
+               <hi>That there are very great Aſsemblies of</hi> Quakers <hi>and</hi> A<g ref="char:EOLhyphen"/>nabaptiſts <hi>conceived to be of</hi> Lamberts <hi>Party, who meet fre<g ref="char:EOLhyphen"/>quently in very great multitudes in</hi> Northamptonſhire, <hi>plot<g ref="char:EOLhyphen"/>ting and contriving againſt the peace of Church and State, frequently caſting out and diſperſing ſeveral ſcandalous Pa<g ref="char:EOLhyphen"/>pers againſt the Miniſters, and their preaching the truth in Churches, to the great diſcouragement and ſcandal of good people.</hi>
+            </p>
+            <p>To which we anſwer for our ſelves, who are called <hi>Quakers,</hi> That our Aſſemblies be neither with multi<g ref="char:EOLhyphen"/>tudes, nor with tumult; for we are but as the gleaning of the Vintage, even a ſmall remnant, neither <hi>of this,</hi> nor <hi>the other mans Party,</hi> as men conceive; for we are re<g ref="char:EOLhyphen"/>deemed from amongſt the Multitude, Sects, and Par<g ref="char:EOLhyphen"/>ties, by the Lord Jeſus Chriſt, who is our Shepherd, and we are the ſheep of his paſture, nouriſhed and fed by him, and in his Name and fear do we aſſemble our ſelves together on the firſt day of the week, and at o<g ref="char:EOLhyphen"/>ther times, as the Chriſtians did; not to diſturb the Peace of the Church nor State, but to worſhip our God in Spirit, and provoke one another to love, and to good works; as alſo to make prayer and ſupplication for all men, that they may come to the knowledge of the truth, and be ſaved, and that we may ſee the peace and tranquility of the land of our Nativity; we do ex<g ref="char:EOLhyphen"/>hort men to lay aſide all Clamor, Bitterneſs, and En<g ref="char:EOLhyphen"/>vie,
+<pb n="5" facs="tcp:58967:3" rendition="simple:additions"/>&amp; come &amp; walk in the Light of the Lord, that they may have fellowſhip one with another, as we have, who do in our hearts abhor all <hi>Plots</hi> and <hi>Contrivances</hi> tending to the breach of Civil Peace and Concord a<g ref="char:EOLhyphen"/>mongſt men, or to the ſhedding of mans blood; for with fleſh and blood we wreſtle not, neither are our Weapons Carnal but Spiritual, with which we war a<g ref="char:EOLhyphen"/>gainſt Spiritual Wickedneſs; but as much as in us lies we labour to live in Peace with all men, though ſome do eſteem us their enemies, becauſe we tell them the truth, and being filled with envy, it breaks their peace to ſee us have a being in the land of our Nativity, as it did <hi>Hamon</hi>'s to ſee <hi>Mordecai</hi> ſit in the King's Gate; and ſuch labor to miſ-repreſent our honeſt intentions, &amp; ſay, <hi>That our Papers and Declarations are ſcandalous againſt the Mini<g ref="char:EOLhyphen"/>ſters of Chriſt, and their preaching the truth;</hi> which Papers &amp; De<g ref="char:EOLhyphen"/>clarations do not touch the Miniſters of Chriſt, who preach the truth in the Church which is made of lively ſtones, but are given forth as a teſtimony againſt ſuch as do in words profeſs to be Miniſters of Chriſt, but ſerves not the Lord Jeſus Chriſt, but their own bellies; who eve<g ref="char:EOLhyphen"/>ry one ſeek their gain from their quarter, &amp; feed them<g ref="char:EOLhyphen"/>ſelves with the Fat, and cloath themſelves with the Fleece; who preach for hire, and divine for mony, and prepare war againſt thoſe who cannot for conſci<g ref="char:EOLhyphen"/>ence ſake put into their mouths, ruling over their flocks with force and cruelty, like thoſe grievous Wolves which the Apoſtle ſaid ſhould come, <hi>not ſpa<g ref="char:EOLhyphen"/>ring the flock;</hi> and the Hirelings which Chriſt ſaid <hi>cares not for the ſheep,</hi> we ſay againſt ſuch as theſe, and their changeable forms of Worſhip, which be not in the unchangeable eternal Spirit, but in the Temples
+<pb n="6" facs="tcp:58967:4" rendition="simple:additions"/>made with hands, in which God dwells not, do we give forth our teſtimony, and not to ſcandalize nor diſ<g ref="char:EOLhyphen"/>courage any good people, but rather to encourage them to ſeek the Lord their Redeemer, and walk in in his light, that they may not be made a prey on by men whoſe hearts are exerciſed with covetous practi<g ref="char:EOLhyphen"/>ſes; And this information we give you under our hands, that the innocency of our hearts may be known to you, and that the guilt of our innocent ſufferings may not lie upon you: Ye may do well to revoke your former Order againſt us, or otherwiſe prevent execu<g ref="char:EOLhyphen"/>tion of it as you ſhall ſee meet, after the good exam<g ref="char:EOLhyphen"/>ple of <hi>Ahaſhuerus,</hi> who upon a farther hearing of the Cauſe of the <hi>Jewes,</hi> ſtopped the <hi>Decree</hi> that upon <hi>Ha<g ref="char:EOLhyphen"/>mon</hi>'s falſe information he had given out againſt them, which if it had been executed, might have wrapped him in a remedileſs calamity; but he ſoreſaw the evil, and prevented it by altering his purpoſe, and providing that the <hi>Jewes</hi> and <hi>all men</hi> might live peaceably in his dominions, though their laws and manners differed from his; which if yee, and thoſe that be in authori<g ref="char:EOLhyphen"/>ty over us do the like, it may be a lengthning to your tranquillity, and we ſhall have joy and gladneſs, that in the land of our nativity we may live peaceably in the exerciſe of our Religion, which is pure, and keeps us unſpotted of the world, in godlineſs and honeſty: But &amp; if you ſtop your ears againſt the crie of the inno<g ref="char:EOLhyphen"/>cent, &amp; preſcribe grievouſneſs for us, and decree unrigh<g ref="char:EOLhyphen"/>teous decrees againſt us; then ſhall we, as it is given us of God, patiently ſuffer for a teſtimony againſt you, and the God in whom we truſt will plead with you by his power, and deliver us; Therefore on him we will wait, for our expectations are from him.</p>
+            <closer>
+               <pb n="7" facs="tcp:58967:4" rendition="simple:additions"/>
+               <dateline>Subſcribed in the behalf of our ſelvs, and the reſt of our Bre<g ref="char:EOLhyphen"/>thren and Siſters that be in the fellowſhip of the Spirit with us in the County of <hi>Northampton,</hi> 
+                  <date>the 24<hi>th.</hi> day of the 8<hi>th.</hi> month, 1660.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>John Whitehead</item>
+                     <item>Francis Ellington</item>
+                     <item>John Mackenes</item>
+                     <item>Rich. Browne</item>
+                     <item>Francis Stanly</item>
+                     <item>Will. Wolſton</item>
+                     <item>James Garret</item>
+                     <item>Robert Cox</item>
+                     <item>John Hoton</item>
+                     <item>Nicolas Freeman</item>
+                     <item>Nicolas Day</item>
+                     <item>Richard Pell</item>
+                     <item>Thomas Green</item>
+                     <item>Thomas Vice</item>
+                     <item>Thomas Ollive</item>
+                     <item>William Mather</item>
+                     <item>Will. Page</item>
+                     <item>John Parnel</item>
+                     <item>William Lovel</item>
+                     <item>Henry Roe</item>
+                     <item>Thomas Gealing</item>
+                     <item>Richard Panter</item>
+                     <item>Will. Sharpe</item>
+                     <item>Samuel Simcocke</item>
+                     <item>Robert Burnell</item>
+                     <item>Michael Gaines</item>
+                     <item>Matthew Haddon</item>
+                     <item>Richard Canwarden</item>
+                     <item>Richard Smith</item>
+                     <item>Laurence Key</item>
+                     <item>Thomas Preſton</item>
+                     <item>John Rogers</item>
+                     <item>John Garret</item>
+                     <item>Peter Mackeneſſe</item>
+                     <item>Joſeph Garret</item>
+                     <item>Benjamin Bradſhew.</item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <p>We deſire to hear an anſwer from you, whether it be your minds that we ſhould be torn out of our Meetings, and abuſed: You have been acquainted with ſufferings your ſelves, therefore you are the better to conſider of ſuch things.</p>
+            </postscript>
+         </div>
+         <div type="summary_of_Kings_response">
+            <pb n="8" facs="tcp:58967:5" rendition="simple:additions"/>
+            <p>THis was given into the Kings hands upon the 6th. day of the 9th. Month, 1660. And he promiſed an An<g ref="char:EOLhyphen"/>ſwer; and upon the 9th. day of the Month his Anſwer was, <hi>That he had given an Order to the Judges, that went the Circuits, concerning us; which Order was, <hi>That we ſhould be tenderly dealt with:</hi>
+               </hi> And we were with the Judge, and he ſaid. <hi>That he was ſorry that any hurt ſhould be unto us concerning it; and that he would do for us what lyes in him concerning it:</hi> And the Order was ſhewed unto one of the Lords of the Houſe, who ſaid, <hi>He knew nothing of it; if there was ſuch a thing, it is void now.</hi> And we perceive it is contrary to the Kings mind, and his laſt Declaration, who ſaith theſe words following: <hi>In a word We do again renew what We have formerly ſaid in our Declaration from <hi>Breda,</hi> for the Liberty of tender Conſcien<g ref="char:EOLhyphen"/>ces; that no man ſhall be diſquieted, or called in queſtion for difference of Opinion in matter of Religion, which do not di<g ref="char:EOLhyphen"/>ſturb the peace of the Kingdom; and if any have been diſturb<g ref="char:EOLhyphen"/>bed in that kind ſince Our arrival here, it hath not proceeded from any direction of Ours.</hi> And it is known, that our Meetings are kept in the fear of God, and have been perſecuted by all rough Spirits in theſe changeable times, who peaceably meet to worſhip God in the Spirit and Truth, in that to build up and edifie one another, who have been perſecu<g ref="char:EOLhyphen"/>ted by ſuch who have had the form of godlineſs, but deni<g ref="char:EOLhyphen"/>ed the Power, from which we are turned away, and have given our backs and hair to the ſmiter, have been as the ſheep killed all the day long, and have not lifted up a hand againſt any one, but meets together in their ſeveral houſes, as the Chriſtians did in the primitive times; And here all people may ſee our Innocency; and likewiſe how unjuſtly we have ſuffered.</p>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:58967:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
